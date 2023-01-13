@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La mise en place d’une application mobile. Durant ce projet, la mission qui m’a été confié consiste dans un premier temps de faire une conception et une étude de marché afin de définir le modèle e-commerce à adopter dans ma solution, et dans un deuxième temps de développer la solution, en utilisant la technologie Flutter/dart.
+● Construction d'une Api REST en utilisant POSTMAN. 
+●  Création de la partie Front end qui consomme l’API en utilisant dart Flutter.
+● Gestion de la base de données en utilisant mysql 
+● Sécurisation de l’application en utilisant le type d'authentification “stateless” qui se repose sur la  norme JSON Web Token (JWT). 
